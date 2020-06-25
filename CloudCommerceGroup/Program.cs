@@ -9,7 +9,8 @@ namespace CloudCommerceGroup
     {
         static void Main(string[] args)
         {
-            // Use this to set a reference to the required converter strategy IE convert csv -> json, csv -> xml etc.
+            // Use this to set a reference to the required converter strategy 
+            // IE convert csv -> json, csv -> xml etc.
             ConverterContext conversionContext = new ConverterContext();
 
             Console.WriteLine("What conversion strategy would you like to use (1-7)?");
