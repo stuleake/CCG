@@ -3,7 +3,7 @@
 namespace CloudCommerceGroup.Context
 {
     /// <summary>
-    /// The ConveterContext class, which maintains a reference to the chosen Strategy <see cref="IConverterStrategy"/>
+    /// The ConveterContext class, which maintains a reference to the chosen converter strategy <see cref="IConverterStrategy"/>
     /// </summary>
     public class ConverterContext
     {
